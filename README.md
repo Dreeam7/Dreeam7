@@ -40,14 +40,14 @@ object **Daniel** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[twitter]: https://twitter.com/Dreeam7
-[youtube]: https://www.youtube.com/user/Dreeam7/
-[instagram]: https://www.instagram.com/dn_vls/
+[Twitter]: https://twitter.com/Dreeam7
+[Youtube]: https://www.youtube.com/user/Dreeam7/
+[Instagram]: https://www.instagram.com/dn_vls/
 <br>
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+🐦 [Twitter][Twitter] **|** 
+📺 [Youtube][Youtube] **|** 
+📷 [Instagram][Instagram] **|** 
 
